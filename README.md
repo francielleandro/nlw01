@@ -1,4 +1,4 @@
-# nlw01
+# Next Level Week 1
 Projeto construído durante a  semana NLW01 da RocketSeat
 
 Foi utilizado nodejs, react e react-native para o back-end, front-end e o app
